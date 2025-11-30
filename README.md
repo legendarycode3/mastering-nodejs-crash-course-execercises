@@ -43,7 +43,7 @@ https://nodejs.org/en/learn/  ,  https://www.w3schools.com/nodejs <br/>
 
 
 
-➡️ What is Node.js ?  <br/>
+➡️ **What is Node.js ?**  <br/>
 a)“Node.js” is an open-source “Javascript runtime”. <br/>
 b)“Node.js” Uses the “v8 Javascript engine” that Google chrome uses. Built on C++. <br/>
 c)“Node.js” is basically used for deveoping “server-side and networking apps/apis”. <br/>
@@ -52,7 +52,10 @@ e)“Node.js” is fast, scalable and popular in many areas of the industry. <br
 f)“Node.js” is used by companies like “Netflix, Uber, Linkedin, startups” <br/>
 
 
-➡️ HOW NODE.JS  WORKS - LESSON 1  <br/>
+
+
+
+➡️ **HOW NODE.JS  WORKS - LESSON 1**  <br/>
 
 ![](images/how-nodejs-works-img1.png)
 
@@ -67,6 +70,33 @@ d)Event Loop: Node.js uses an event loop , which is a mechanism that allows Node
 
 
 
+
+
+➡️ **WHAT IS NODE.js USED FOR - LESSON 2** <br/>
+✔️ Node.js Is Used For The Following: <br/>
+1)APIs:  (like Restful apis, GraphQl apis). <br/>
+
+2)Server-rendered apps: <br/>
+
+3)Real-time applications: like chat, realtime game etc. <br/>
+
+4)Microservices: A small independent services that works together. <br/>
+
+5)Command Line Tools: You could build CLI command line interfaces. <br/>
+
+6)Bots:  (Like building a twitter bot, discord bots). <br/>
+
+7)Web Scraping: Nodejs is good for “web scraping”. <br/>
+
+8)Web Server:   Nodejs provides robust capibilities for building web servers , leveraging its asyncronous, event -driven architecture.  <br/>
+
+
+
+✔️ NPM (node package manager): Helps us as well to install 3rd party packages. <br/>
+
+✔️ Repple - (read, val, print, loop): A “command line” environment to run javascript. You can start that “command promt” by just typing node. It just a nice way to test out code and just experiment the javascript and not have to do it through the file, or browser or anything like that. <br/>
+E.g Below on a diagram <br/>
+![](images/command-prompt-usage-img2.png)
 
 
 
