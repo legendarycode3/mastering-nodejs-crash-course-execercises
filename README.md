@@ -25,3 +25,51 @@ The backend interacts with frontend and the database using a backend programming
 As web developer, you should write code using a text or code editor. Therefore, to write HTML code, CSS, JS, React etc. You need to have a code editor.
 
 I will use Visual studio code and I will use it in this challenge too. I strongly suggest to use Visual Studio Code because it has lots of productivity extensions that makes super productive. Now, let's download https://code.visualstudio.com/Download visual studio code. <br/>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**EVERY LESSONS YOU WILL FIND ON THIS "NODE.JS" COURSE ** (Below) <br/>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+➡️ **Course Outline**: <br/>
+1.What is Node.js  and how does it work ? <br/>
+2. Installation, setup, package.json, npm etc. <br/>
+3.Modules import/export (CommonJS & ES Modules). <br/>
+4.HTTP Module, reg/res, routing, serving JSON/HTML. <br/>
+5.Custom middleware. <br/>
+6.Other Core Modules - fs, path, url, events, process, os.’ <br/>
+7. Some good Resource Documentations To Help As You Go: <br/>
+https://nodejs.org/en/learn/  ,  https://www.w3schools.com/nodejs <br/>
+
+
+
+➡️ What is Node.js ?  <br/>
+a)“Node.js” is an open-source “Javascript runtime”. <br/>
+b)“Node.js” Uses the “v8 Javascript engine” that Google chrome uses. Built on C++. <br/>
+c)“Node.js” is basically used for deveoping “server-side and networking apps/apis”. <br/>
+d)“Node.js” takes Javascript out of the browser . <br/>
+e)“Node.js” is fast, scalable and popular in many areas of the industry. <br/>
+f)“Node.js” is used by companies like “Netflix, Uber, Linkedin, startups” <br/>
+
+
+➡️ HOW NODE.JS  WORKS - LESSON 1  <br/>
+
+![legendary](https://github.com/user-attachments/assets/5c8c6a35-b0f8-406c-aebc-42921e857836)
+
+a)V8 JS Engine: Node.js, is built under the “v8 JS Engine” same engine that powers google chrome & it is written in C++. <br/>
+
+b)Non-Blocking: Node.js is what we call “non-blocking”, which means that , it doesnot wait around for I/o operations. <br/>
+
+c)Single Threaded: Refers to javascript execution model, specifically the event loop. <br/>
+Node.js  executes your javascript code within a “single main thread”. This means that, at any given point , only one piece of your javascript code, is likely running. <br/>
+
+d)Event Loop: Node.js uses an event loop , which is a mechanism that allows Node, “to perform non-blocking I/o operations”. <br/>
+
+
+
+
+
+
+
+
+
