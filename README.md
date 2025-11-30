@@ -54,7 +54,7 @@ f)“Node.js” is used by companies like “Netflix, Uber, Linkedin, startups�
 
 ➡️ HOW NODE.JS  WORKS - LESSON 1  <br/>
 
-![legendary](https://github.com/user-attachments/assets/5c8c6a35-b0f8-406c-aebc-42921e857836)
+![](Imagess/legendary.jpg)
 
 a)V8 JS Engine: Node.js, is built under the “v8 JS Engine” same engine that powers google chrome & it is written in C++. <br/>
 
