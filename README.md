@@ -10,7 +10,7 @@
 
 
 **Setting Development Environment** <br/>
-**Browser** <br/>
+**Browser** <br/> 
 There are many browsers out there but most developers prefer to use Google Chrome or FireFox. I usually use Google chrome for development and I recommend it too. Download https://www.google.com/chrome/ Google Chrome if you do not have one.
 
 The browser render your HTML code to a human read website.
