@@ -1157,35 +1157,35 @@ console.log(`DECRYPTED VALUE: ${decrypted}`); <br/>
 
 
 
-✔️ **Events  Module :** The “Event” module is a great for building real-time application (E.g becusyou can create custom events, & you can listen to the events).
+✔️ **Events  Module :** The “Event” module is a great for building real-time application (E.g becusyou can create custom events, & you can listen to the events). </br>
 
-Eg :  using Event module:
-import EventEmitter from 'events';
+Eg :  using Event module: </br>
+import EventEmitter from 'events'; </br>
 
-//CREATING AN INSTANCE OF EventEmitter
-const emitter = new EventEmitter();
+//CREATING AN INSTANCE OF EventEmitter </br>
+const emitter = new EventEmitter(); </br>
 
-//CREATING SOME HANDLERS (2 functions)
-function welcomeHandler(success) {
-    console.log(`Hi, legendarycode, good to have you... ${success}`);
+//CREATING SOME HANDLERS (2 functions) </br>
+function welcomeHandler(success) { </br>
+    console.log(`Hi, legendarycode, good to have you... ${success}`); </br>
 }
-function relentlessHandler(){
-    console.log('I will win, because am relentless');
-}
+function relentlessHandler(){ </br>
+    console.log('I will win, because am relentless'); </br>
+} </br>
 
 
 
-/**
- * REGISTRING AN Event Listener
- */
-// emitter.on('Rich Till I Die', () => {
-//     console.log('Definitely');
-// });
-emitter.on('WhatsUp', welcomeHandler);
-emitter.on('Victory', relentlessHandler);
+/** </br>
+ * REGISTRING AN Event Listener 
+ */ </br>
+// emitter.on('Rich Till I Die', () => { </br>
+//     console.log('Definitely'); </br>
+// }); </br>
+emitter.on('WhatsUp', welcomeHandler); </br>
+emitter.on('Victory', relentlessHandler); </br>
 
 
-/** EMIT  AN EVENT */
+/** EMIT  AN EVENT */ </br>
 emitter.emit('WhatsUp', 'Just BELIEVE');  <br/>
 emitter.emit('Victory');  <br/>
 
