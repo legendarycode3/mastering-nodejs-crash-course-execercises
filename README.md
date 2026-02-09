@@ -493,6 +493,8 @@ A custom middleware is a function that has access to the request object (req),
  the response object (res), and the next middleware function in the application's request-response cycle,
  commonly denoted as next().  </br>
 
+✔️  Common Use Cases for Custom Middleware </br>
+
 ✔️ Logging MiddleWare:  This is a specific type of custom middleware(function). It’s purpose is to, intercepts incoming HTTP requests and outgoing responses to “record information” about them. This information is valuable for debuging , monitoring application performance, understanding user behavior & security auditing . <br/>
 ![](images/logging-middleware-usage-img27.png) <br/>
 
