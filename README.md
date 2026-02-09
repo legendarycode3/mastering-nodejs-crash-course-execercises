@@ -489,6 +489,7 @@ The .find() method is a built-in javascript array method that iterates 	over the
 ➡️  **CUSTOM MIDDLEWARE , HTTP METHODS, REQ/RES, ROUTING , SERVING JSON/HTML-  LESSON 5**
 
 ✔️ Custom MiddleWare:  This is a broader category  encompassing any middleware that you, the developer , write specifically for your application’s needs.  It “custom”  becus it’s not a built-in or third -party middleware, but one tailored to your application logic. <br/>
+A custom middleware is a function that has access to the request object (req),
 
 ✔️ Logging MiddleWare:  This is a specific type of custom middleware(function). It’s purpose is to, intercepts incoming HTTP requests and outgoing responses to “record information” about them. This information is valuable for debuging , monitoring application performance, understanding user behavior & security auditing . <br/>
 ![](images/logging-middleware-usage-img27.png) <br/>
